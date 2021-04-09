@@ -7,6 +7,7 @@
 }
 
 body{
+    margin: 0px;
     font-family: 'Montserrat', sans-serif; 
 }
 
@@ -89,6 +90,7 @@ hr{
 }
 
 .hero .hero-heading{
+    text-align: center;
     color: var(--dark-grey);
     padding-top: 1rem;
 }
